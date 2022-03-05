@@ -1,4 +1,4 @@
-Static responsive website about Metallica band using HTML, css and javascript
+Static responsive website about Metallica band using HTML, CSS and javascript
 
 
 
